@@ -16,7 +16,6 @@
   </p>
 </div>
 
-
 ## About The Project
 
 ![Product Name Screen Shot][product-screenshot]
@@ -27,9 +26,8 @@ The goal is to develop a professional landing page that works for both mobile an
 
 ### Built With
 
-* [HTML](https://nextjs.org/)
-* [CSS](https://reactjs.org/)
-
+- [HTML](https://html.spec.whatwg.org/)
+- [CSS](https://www.w3.org/wiki/CSSWG)
 
 [product-screenshot]: images/screenshot.png
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
