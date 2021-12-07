@@ -6,10 +6,12 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: white;
+  padding-right: 32px;
+  padding-left: 32px;
 }
 
 .header {
-  padding: 32px;
+  padding: 32px 0px;
 }
 
 .header__logo {
@@ -17,10 +19,11 @@ body {
 }
 
 .hero {
-  padding: 24px 32px 0px 32px;
+  padding-top: 24px;
+  padding-bottom: 0px;
 }
 
-.hero__image {
+.aside__image {
   width: 100%;
 }
 
@@ -75,4 +78,7 @@ body {
   height: 24px;
   color: white;
   margin-right: 12px;
+}
+
+@media (min-width: 768px) {
 }
