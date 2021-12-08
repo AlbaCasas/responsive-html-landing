@@ -5,14 +5,12 @@
   <a href="https://github.com/github_username/repo_name">
     <img src="./docs/images/logo.png" alt="Logo" width="185" height="31">
   </a>
-
 <h3 align="center">Huddle HTML Landing Page</h3>
-
   <p align="center">
-    Simple HTML landing page to practice HTML + CSS 
+    Simple HTML landing page to practice HTML + CSS
     <br />
     <br />
-    <a href="https://google.es">View Demo</a>
+    <a href="https://albacasas.github.io/responsive-html-landing">View Demo</a>
   </p>
 </div>
 
